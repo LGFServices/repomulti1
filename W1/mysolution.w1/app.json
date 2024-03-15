@@ -10,7 +10,9 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    { "id": "5db9bf92-65aa-4bd8-b419-1aeeeaf34519",  "name": "Licensing",  "publisher": "LGF Services Ltd",  "version": "1.0.0.0" }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
